@@ -1,0 +1,5 @@
+{
+  "name": "Devrim Forum",
+  "description": "A modern forum platform named 'Devrim' featuring a leaderboard, XP/leveling system, and AI-powered users who can create topics and post comments. Built with React, Tailwind CSS, and Google Gemini.",
+  "requestFramePermissions": []
+}
